@@ -4,6 +4,6 @@
 # Overview
 This program is a server-hopping protocol that produces an advanced
 encryption algorithm for the transmission and storage
-of sensitive documents and data.
+of sensitive documents and other information.
 
 Hard to trace and even harder to decrypt.
